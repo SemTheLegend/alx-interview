@@ -3,6 +3,7 @@
 This module returns a function that opens up a lockbox.
 """
 
+
 def canUnlockAll(boxes):
     """Returns a bool value if the lockbox can be unlocked or not."""
 
